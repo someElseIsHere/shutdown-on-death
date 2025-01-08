@@ -13,7 +13,9 @@
   "contact": {},
   "license": "lgpl-3.0",
   "environment": "*",
-  "entrypoints": {},
+  "entrypoints": {
+    "main": "org.theplaceholder.shutdownondeath.ShutdownOnDeathMod"
+  },
   "depends": {
     "minecraft": ">=1.21.4"
   }
